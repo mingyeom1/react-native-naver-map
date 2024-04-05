@@ -16,7 +16,6 @@ import com.naver.maps.geometry.LatLng;
 import com.naver.maps.geometry.LatLngBounds;
 import com.naver.maps.map.NaverMap;
 import com.naver.maps.map.NaverMapOptions;
-import com.naver.maps.map.util.FusedLocationSource;
 
 public class RNNaverMapViewContainer extends FrameLayout implements RNNaverMapViewProps {
     private RNNaverMapView mapView;
